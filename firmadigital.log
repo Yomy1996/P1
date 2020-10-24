@@ -1,0 +1,28 @@
+oct 20, 2020 11:24:11 AM ec.gob.firmadigital.firmador.update.Update download
+INFORMACIÓN: size=65
+oct 20, 2020 11:24:11 AM ec.gob.firmadigital.firmador.update.Update generateHash
+INFORMACIÓN: Hashing...
+oct 20, 2020 11:24:11 AM ec.gob.firmadigital.firmador.Main main
+INFORMACIÓN: Firmador: 2.7.0 JRE: 1.8.0_212 Sistema Operativo: WINDOWS 10
+oct 20, 2020 11:25:12 AM ec.gob.firmadigital.utils.PropertiesUtils loadLastConfig
+INFORMACIÓN: Base directory: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:12 AM ec.gob.firmadigital.utils.PropertiesUtils loadLastConfig
+GRAVE: Reading file error: C:\Users\Richard Rodriguez C:\Users\Richard Rodriguez\firmadigital.properties (El sistema no puede encontrar el archivo especificado)
+oct 20, 2020 11:25:12 AM ec.gob.firmadigital.utils.PropertiesUtils createLastConfig
+INFORMACIÓN: Creating temporal config file in: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:12 AM ec.gob.firmadigital.utils.PropertiesUtils getPath
+INFORMACIÓN: Creating configuration file in: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:26 AM ec.gob.firmadigital.utils.PropertiesUtils loadLastConfig
+INFORMACIÓN: Base directory: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:26 AM ec.gob.firmadigital.utils.PropertiesUtils createLastConfig
+INFORMACIÓN: Creating temporal config file in: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:26 AM ec.gob.firmadigital.utils.PropertiesUtils loadLastConfig
+INFORMACIÓN: Base directory: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:26 AM ec.gob.firmadigital.utils.PropertiesUtils createLastConfig
+INFORMACIÓN: Creating temporal config file in: C:\Users\Richard Rodriguez
+oct 20, 2020 11:25:26 AM ec.gob.firmadigital.utils.PropertiesUtils getPath
+INFORMACIÓN: Creating configuration file in: C:\Users\Richard Rodriguez
+oct 20, 2020 11:26:23 AM ec.gob.firmadigital.firmador.update.Update download
+INFORMACIÓN: size=65
+oct 20, 2020 11:26:23 AM ec.gob.firmadigital.firmador.update.Update generateHash
+INFORMACIÓN: Hashing...
