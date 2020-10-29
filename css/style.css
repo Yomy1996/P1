@@ -2460,7 +2460,13 @@ h1 a.navbar-brand {
     background-image: url('images\logobackground.jpeg');
   }
 
-
+  .ribbon {
+    position: relative;
+    top: -16px;
+    right: -706px;
+    width: 5;
+    height: 5;
+}
 
 }
 /*--//responsive--*/
