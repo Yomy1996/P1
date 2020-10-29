@@ -2455,5 +2455,12 @@ h1 a.navbar-brand {
 .agile_testimonials_grids {
     margin: 4em 0 0em;
 }
+
+.image {
+    background-image: url('images\logobackground.jpeg');
+  }
+
+
+
 }
 /*--//responsive--*/
